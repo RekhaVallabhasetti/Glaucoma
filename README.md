@@ -6,7 +6,7 @@ Glaucoma, a neurodegenerative eye disease, is one of the leading causes of irrev
 While glaucoma can affect people of all ages, it is more prevalent in those over 60, making early diagnosis and intervention critical.
 Genetic inheritance and family history are important factors in the development of glaucoma, increasing the risk for individuals with affected relatives. Furthermore, elevated intraocular pressure (IOP), diabetes, and hypertension can all contribute to the disease's onset and progression, thus regular eye exams are critical for early detection and management.
 <br>
-<h2>**Datasets**</h2>:
+<h2>Datasets</h2>:
 The datasets used are publicly available Datasets **ACRIMA,DHRISHTI GS,RIM ONE**,totally 638 Glaucoma Images and 653 Normal Images.You Can download from Datasets
 <br>
 The Glaucoma Detection app was developed using Streamlit . The data was trained with multiple models Like **CNN,VGG 16,ResNet50,MobileNet,Efficient Net** and got good accuracy of **96.03%** with CNN Model.
