@@ -8,13 +8,13 @@ Genetic inheritance and family history are important factors in the development 
 <br>
 <h2>Datasets</h2>
 The datasets used are publicly available Datasets <span>ACRIMA,DHRISHTI GS,RIM ONE</span> totally 638 Glaucoma Images and 653 Normal Images.
-You Can download from : Datasets
+You Can download from : [Datasets](https://www.kaggle.com/datasets/ayush02102001/glaucoma-classification-datasets)
 <br>
 The Glaucoma Detection app was developed using Streamlit . The data was trained with multiple models Like <b>CNN,VGG16,ResNet50,MobileNet,Efficient Net</b> and got good accuracy of <b>96.03%</b>with CNN Model.
 <br>
 <h2>About App</h2>
 <br>
-Here is the Link for Glaucoma Detection App : <u> https://literate-space-halibut-44pq6gvqx7x2jqqp-8501.app.github.dev/ <u>
+<ul><li>Here is the Link for Glaucoma Detection App : <u> https://literate-space-halibut-44pq6gvqx7x2jqqp-8501.app.github.dev/ <u></li></u></u>ul>
 You can Upload a (jpg,png,jpeg) fundus image of eye.and find whether you are diagonised with Glaucoma or Not.It also shows Confidence Level with a graph indicating Seriousness of Glaucoma .!!!You are welcome to explore the app.
 It is available in English,Hindi,Telugu.
 
