@@ -14,7 +14,7 @@ The Glaucoma Detection app was developed using Streamlit . The data was trained 
 <br>
 <h2>About App</h2>
 <br>
-<ul><li>Here is the Link for Glaucoma Detection App : <u> https://literate-space-halibut-44pq6gvqx7x2jqqp-8501.app.github.dev/ <u></li></u></u>ul>
+<ul><li>Here is the Link for Glaucoma Detection App : <u> https://literate-space-halibut-44pq6gvqx7x2jqqp-8501.app.github.dev/ </u></li></ul>
 You can Upload a (jpg,png,jpeg) fundus image of eye.and find whether you are diagonised with Glaucoma or Not.It also shows Confidence Level with a graph indicating Seriousness of Glaucoma .!!!You are welcome to explore the app.
 It is available in English,Hindi,Telugu.
 
