@@ -7,12 +7,13 @@ While glaucoma can affect people of all ages, it is more prevalent in those over
 Genetic inheritance and family history are important factors in the development of glaucoma, increasing the risk for individuals with affected relatives. Furthermore, elevated intraocular pressure (IOP), diabetes, and hypertension can all contribute to the disease's onset and progression, thus regular eye exams are critical for early detection and management.
 <br>
 <h2>Datasets</h2>:
-The datasets used are publicly available Datasets <span>ACRIMA,DHRISHTI GS,RIM ONE</span>span>totally 638 Glaucoma Images and 653 Normal Images.You Can download from Datasets
+The datasets used are publicly available Datasets <span>ACRIMA,DHRISHTI GS,RIM ONE</span> totally 638 Glaucoma Images and 653 Normal Images.You Can download from Datasets
 <br>
 The Glaucoma Detection app was developed using Streamlit . The data was trained with multiple models Like **CNN,VGG 16,ResNet50,MobileNet,Efficient Net** and got good accuracy of **96.03%** with CNN Model.
 <br>
 <h2>About App</h2>
-Here is the Link for Glaucoma Detection App  Link: <u>https://literate-space-halibut-44pq6gvqx7x2jqqp-8501.app.github.dev/ <u>
+<br>
+Here is the Link for Glaucoma Detection App : <u> https://literate-space-halibut-44pq6gvqx7x2jqqp-8501.app.github.dev/ <u>
 You can Upload a (jpg,png,jpeg) fundus image of eye.and find whether you are diagonised with Glaucoma or Not.It also shows Confidence Level with a graph indicating Seriousness of Glaucoma .!!!You are welcome to explore the app.
 It is available in English,Hindi,Telugu.
 
