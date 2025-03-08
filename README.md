@@ -7,12 +7,6 @@ The Glaucoma Detection app was developed using Streamlit . The data was trained 
 Here is the Link for Glaucoma Detection App: https://literate-space-halibut-44pq6gvqx7x2jqqp-8501.app.github.dev/ 
 You can Upload the fundus image and find whether you are diagonised with Glaucoma or Not.Feel free to Use.It is available in English,Hindi,Telugu.
 
-Sample Glaucoma Image
-![Im687_g_ACRIMA_250x250](https://github.com/user-attachments/assets/f5c513d9-8171-4412-a927-f2a38f74ebd2)
-
-
-Sample Normal Image
-![Im301_ACRIMA](https://github.com/user-attachments/assets/fcd6e0fd-b6f1-445a-be69-80a607a8c308)
 
 Glaucoma Detection Development Process:
 1.Data Collection
