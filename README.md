@@ -8,12 +8,14 @@ Here is the Link for Glaucoma Detection App: https://literate-space-halibut-44pq
 You can Upload the fundus image and find whether you are diagonised with Glaucoma or Not.Feel free to Use.It is available in English,Hindi,Telugu.
 
 
-Glaucoma Detection Development Process:
-1.Data Collection
-2.Image Loading
-3.Image Processing
-4.Data Augmentation
-5.Model Training
-6.Performance Comparision
-7.Deployment Using Streamlit
+<ul>
+    <li>Data Collection</li>
+    <li>Image Loading</li>
+    <li>Image Processing</li>
+    <li>Data Augmentation</li>
+    <li>Model Training</li>
+    <li>Performance Comparison</li>
+    <li>Deployment Using Streamlit</li>
+</ul>
+
 
