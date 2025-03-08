@@ -1,6 +1,6 @@
 
 <h1>Glaucoma Detection Using Deep Learning</h1>
-<br>
+
 <h2>About Glaucoma</h2>
 Glaucoma, a neurodegenerative eye disease, is one of the leading causes of irreversible blindness worldwide,  It primarily damages the optic nerve and retinal ganglion cells, causing progressive vision loss. Often referred to as the "sneak thief of sight," glaucoma progresses silently, with many individuals unaware of its effects until the disease reaches advanced stages. 
 While glaucoma can affect people of all ages, it is more prevalent in those over 60, making early diagnosis and intervention critical.
