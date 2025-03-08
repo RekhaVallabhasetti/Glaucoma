@@ -4,3 +4,4 @@ Genetic inheritance and family history are important factors in the development 
 The Glaucoma Detection app was developed using Streamlit . The data was trained with multiple models Like CNN,VGG16,ResNet50,MobileNet,Efficient Net and got good accuracy with CNN Model.
 Here is the Link for Glaucoma Detection App: https://literate-space-halibut-44pq6gvqx7x2jqqp-8501.app.github.dev/ 
 You can Upload the fundus image and find whether you are diagonised with Glaucoma or Not.Feel free to Use.It is available in English,Hindi,Telugu.
+![Im686_g_ACRIMA](https://github.com/user-attachments/assets/1b67f3a0-4b0e-4741-b19b-84e6c9c560f8)
